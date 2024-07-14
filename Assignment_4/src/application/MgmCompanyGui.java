@@ -2,7 +2,6 @@ package application;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
